@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.esprit</groupId>
-    <artifactId>MicroServer-EurekaClient</artifactId>
+    <artifactId>ServiceEtudiant</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>MicroServer-EurekaClient</name>
-    <description>MicroServer-EurekaClient</description>
+    <name>ServiceEtudiant</name>
+    <description>ServiceEtudiant</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2021.0.8</spring-cloud.version>
