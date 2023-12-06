@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/microservice-etudiant-main/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-universite-main/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-reservation-main/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
       </list>
     </option>
   </component>
