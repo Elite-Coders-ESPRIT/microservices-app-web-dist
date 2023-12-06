@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaServer" />
+        <module name="SpringProject" />
+        <module name="SpringProject (2)" />
+        <module name="SpringProject (3)" />
+        <module name="SpringProject (4)" />
+        <module name="MicroServer-EurekaClient" />
+        <module name="SpringProject (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EurekaServer" target="17" />
+      <module name="MicroServer-EurekaClient" target="17" />
+      <module name="SpringProject" target="17" />
+      <module name="SpringProject (1)" target="17" />
+      <module name="SpringProject (2)" target="17" />
+      <module name="SpringProject (3)" target="17" />
+      <module name="SpringProject (4)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EurekaServer" options="-parameters" />
+      <module name="MicroServer-EurekaClient" options="-parameters" />
+      <module name="SpringProject" options="-parameters" />
+      <module name="SpringProject (1)" options="-parameters" />
+      <module name="SpringProject (2)" options="-parameters" />
+      <module name="SpringProject (3)" options="-parameters" />
+      <module name="SpringProject (4)" options="-parameters" />
+    </option>
+  </component>
+</project>
